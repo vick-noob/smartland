@@ -1,4 +1,4 @@
----<h1 align="center">🐵 MonkeNFT Coupons</h1>
+---<h1 align="center">🐵 MonkeMint</h1>
 
 <p align="center">
 Redeem exclusive <strong>Monke community rewards</strong> — from merch discounts to event passes, powered by NFTs.  
@@ -7,7 +7,7 @@ Redeem exclusive <strong>Monke community rewards</strong> — from merch discoun
 ---
 
 ## 🚀 Overview
-**MonkeNFT Coupons** is a futuristic Web3 dApp designed for the MonkeDAO community.  
+**MonkeMint** is a futuristic Web3 dApp designed for the MonkeDAO community.  
 It allows users to **mint NFTs as coupons** that represent exclusive benefits such as:  
 - 🎽 *Discounts on official Monke merchandise*  
 - 🍌 *Access to the private Discord “Banana Club” lounge*  
@@ -20,7 +20,7 @@ Instead of traditional promo codes or centralized coupon systems, MonkeNFT Coupo
 ## 🧠 Core Idea  
 
 > Traditional coupons can be duplicated, reused, or expire without clear tracking.  
-> MonkeNFT Coupons solves this by turning each coupon into a verifiable NFT on the blockchain.  
+> MonkeMint solves this by turning each coupon into a verifiable NFT on the blockchain.  
 
 Each NFT coupon:  
 - is **unique and tamper-proof**  
